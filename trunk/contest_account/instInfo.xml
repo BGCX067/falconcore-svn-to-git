@@ -1,0 +1,403 @@
+<instInfo>
+  <methodList>
+    <methodInfo>
+      <mid>2</mid>
+      <msig>&lt;contest.account.Account: void depsite(double)&gt;</msig>
+    </methodInfo>
+    <methodInfo>
+      <mid>4</mid>
+      <msig>&lt;contest.account.Account: void transfer(contest.account.Account,double)&gt;</msig>
+    </methodInfo>
+    <methodInfo>
+      <mid>9</mid>
+      <msig>&lt;contest.account.ManageAccount: void printAllAccounts()&gt;</msig>
+    </methodInfo>
+    <methodInfo>
+      <mid>8</mid>
+      <msig>&lt;contest.account.ManageAccount: void &lt;init&gt;(java.lang.String,double)&gt;</msig>
+    </methodInfo>
+    <methodInfo>
+      <mid>6</mid>
+      <msig>&lt;contest.account.Main: void main(java.lang.String[])&gt;</msig>
+    </methodInfo>
+    <methodInfo>
+      <mid>1</mid>
+      <msig>&lt;contest.account.Account: void &lt;init&gt;(java.lang.String,double)&gt;</msig>
+    </methodInfo>
+    <methodInfo>
+      <mid>3</mid>
+      <msig>&lt;contest.account.Account: void print()&gt;</msig>
+    </methodInfo>
+    <methodInfo>
+      <mid>10</mid>
+      <msig>&lt;contest.account.ManageAccount: void run()&gt;</msig>
+    </methodInfo>
+    <methodInfo>
+      <mid>7</mid>
+      <msig>&lt;contest.account.ManageAccount: void &lt;clinit&gt;()&gt;</msig>
+    </methodInfo>
+    <methodInfo>
+      <mid>5</mid>
+      <msig>&lt;contest.account.Account: void withdraw(double)&gt;</msig>
+    </methodInfo>
+  </methodList>
+  <variableList>
+    <variableInfo>
+      <vid>0</vid>
+      <vtype>R</vtype>
+      <vsig>nm</vsig>
+      <vfile>Account.java</vfile>
+      <vline>12</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>1</vid>
+      <vtype>RF</vtype>
+      <vsig>this.&lt;contest.account.Account: double amount&gt;</vsig>
+      <vfile>Account.java</vfile>
+      <vline>16</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>2</vid>
+      <vtype>WF</vtype>
+      <vsig>this.&lt;contest.account.Account: double amount&gt;</vsig>
+      <vfile>Account.java</vfile>
+      <vline>16</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>3</vid>
+      <vtype>RF</vtype>
+      <vsig>this.&lt;contest.account.Account: java.lang.String name&gt;</vsig>
+      <vfile>Account.java</vfile>
+      <vline>30</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>4</vid>
+      <vtype>RF</vtype>
+      <vsig>this.&lt;contest.account.Account: double amount&gt;</vsig>
+      <vfile>Account.java</vfile>
+      <vline>30</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>5</vid>
+      <vtype>RF</vtype>
+      <vsig>this.&lt;contest.account.Account: double amount&gt;</vsig>
+      <vfile>Account.java</vfile>
+      <vline>24</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>6</vid>
+      <vtype>WF</vtype>
+      <vsig>this.&lt;contest.account.Account: double amount&gt;</vsig>
+      <vfile>Account.java</vfile>
+      <vline>24</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>7</vid>
+      <vtype>RF</vtype>
+      <vsig>ac.&lt;contest.account.Account: double amount&gt;</vsig>
+      <vfile>Account.java</vfile>
+      <vline>25</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>8</vid>
+      <vtype>WF</vtype>
+      <vsig>ac.&lt;contest.account.Account: double amount&gt;</vsig>
+      <vfile>Account.java</vfile>
+      <vline>25</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>9</vid>
+      <vtype>RF</vtype>
+      <vsig>this.&lt;contest.account.Account: double amount&gt;</vsig>
+      <vfile>Account.java</vfile>
+      <vline>20</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>10</vid>
+      <vtype>WF</vtype>
+      <vsig>this.&lt;contest.account.Account: double amount&gt;</vsig>
+      <vfile>Account.java</vfile>
+      <vline>20</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>11</vid>
+      <vtype>W</vtype>
+      <vsig>out</vsig>
+      <vfile>Main.java</vfile>
+      <vline>19</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>12</vid>
+      <vtype>R</vtype>
+      <vsig>$r1</vsig>
+      <vfile>Main.java</vfile>
+      <vline>22</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>13</vid>
+      <vtype>W</vtype>
+      <vsig>out</vsig>
+      <vfile>Main.java</vfile>
+      <vline>22</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>14</vid>
+      <vtype>W</vtype>
+      <vsig>concurrencyLevel</vsig>
+      <vfile>Main.java</vfile>
+      <vline>29</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>15</vid>
+      <vtype>I</vtype>
+      <vsig>&lt;java.lang.String: int compareTo(java.lang.String)&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>30</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>16</vid>
+      <vtype>WP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>30</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>17</vid>
+      <vtype>I</vtype>
+      <vsig>&lt;java.lang.String: int compareTo(java.lang.String)&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>32</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>18</vid>
+      <vtype>WP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>32</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>19</vid>
+      <vtype>I</vtype>
+      <vsig>&lt;java.lang.String: int compareTo(java.lang.String)&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>34</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>20</vid>
+      <vtype>WP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>34</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>21</vid>
+      <vtype>I</vtype>
+      <vsig>&lt;java.lang.String: int length()&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>36</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>22</vid>
+      <vtype>WP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>37</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>23</vid>
+      <vtype>RP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>38</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>24</vid>
+      <vtype>RP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>54</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>25</vid>
+      <vtype>RA</vtype>
+      <vsig>$r8</vsig>
+      <vfile>Main.java</vfile>
+      <vline>59</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>26</vid>
+      <vtype>RP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>57</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>27</vid>
+      <vtype>RP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>64</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>28</vid>
+      <vtype>RP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>69</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>29</vid>
+      <vtype>RA</vtype>
+      <vsig>$r8</vsig>
+      <vfile>Main.java</vfile>
+      <vline>78</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>30</vid>
+      <vtype>RF</vtype>
+      <vsig>$r9.&lt;contest.account.Account: double amount&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>78</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>31</vid>
+      <vtype>RA</vtype>
+      <vsig>$r8</vsig>
+      <vfile>Main.java</vfile>
+      <vline>81</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>32</vid>
+      <vtype>RF</vtype>
+      <vsig>$r9.&lt;contest.account.Account: double amount&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>81</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>33</vid>
+      <vtype>RP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>Main.java</vfile>
+      <vline>77</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>34</vid>
+      <vtype>WP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>16</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>35</vid>
+      <vtype>WP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int accNum&gt;</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>17</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>36</vid>
+      <vtype>RP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int accNum&gt;</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>22</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>37</vid>
+      <vtype>WA</vtype>
+      <vsig>$r1</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>23</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>38</vid>
+      <vtype>RP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int accNum&gt;</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>24</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>39</vid>
+      <vtype>RP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>24</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>40</vid>
+      <vtype>WP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int accNum&gt;</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>24</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>41</vid>
+      <vtype>RA</vtype>
+      <vsig>$r0</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>36</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>42</vid>
+      <vtype>RA</vtype>
+      <vsig>$r0</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>37</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>43</vid>
+      <vtype>RP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>35</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>44</vid>
+      <vtype>RF</vtype>
+      <vsig>this.&lt;contest.account.ManageAccount: contest.account.Account account&gt;</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>28</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>45</vid>
+      <vtype>RF</vtype>
+      <vsig>this.&lt;contest.account.ManageAccount: contest.account.Account account&gt;</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>29</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>46</vid>
+      <vtype>RA</vtype>
+      <vsig>$r1</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>30</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>47</vid>
+      <vtype>RF</vtype>
+      <vsig>this.&lt;contest.account.ManageAccount: int i&gt;</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>30</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>48</vid>
+      <vtype>RP</vtype>
+      <vsig>&lt;contest.account.ManageAccount: int num&gt;</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>30</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>49</vid>
+      <vtype>W</vtype>
+      <vsig>acc</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>30</vline>
+    </variableInfo>
+    <variableInfo>
+      <vid>50</vid>
+      <vtype>RF</vtype>
+      <vsig>this.&lt;contest.account.ManageAccount: contest.account.Account account&gt;</vsig>
+      <vfile>ManageAccount.java</vfile>
+      <vline>31</vline>
+    </variableInfo>
+  </variableList>
+</instInfo>

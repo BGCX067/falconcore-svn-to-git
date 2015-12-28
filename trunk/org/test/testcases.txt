@@ -1,0 +1,61 @@
+"Boundary checking" 0 0 0    Error
+"Boundary checking" 0 0 -1   Error
+"Boundary checking" 0 -1 0   Error
+"Boundary checking" 0 -1 -1  Error
+"Boundary checking" -1 0 0   Error
+"Boundary checking" -1 0 -1  Error
+"Boundary checking" -1 -1 0  Error
+"Boundary checking" -1 -1 -1 Error
+"Boundary checking" 0 0 0    Error
+"Boundary checking" 0 0 1    Error
+"Boundary checking" 0 1 0    Error
+"Boundary checking" 0 1 1    Error
+"Boundary checking" 1 0 0    Error
+"Boundary checking" 1 0 1    Error
+"Boundary checking" 1 1 0    Error
+"Boundary checking" 1 1 1    Erro
+"Boundary checking" 2 3 0  Error
+"Boundary checking" 0 3 2  Error
+"Boundary checking" 2 0 3  Error
+"Error checking" -1 -2 -4  Error
+"Error checking" -2 -1 -4  Error
+"Error checking" -4 -1 -2  Error
+"Error checking" -1 -4 -2  Error
+"Error checking" -2 -2 -2  Error
+"Error checking" -2 -2 -4  Error
+"Error checking" -2 -4 -2  Error
+"Error checking" -4 -2 -2  Error
+"equilateral" 1 1 1 equilateral
+"equilateral" 2 2 2 equilateral
+"isosceles" 2 2 3 isosceles
+"isosceles" 2 3 2 isosceles
+"isosceles" 3 2 2 isosceles
+"scalene" 2 4 5 scalene
+"scalene" 4 2 5 scalene
+"scalene" 5 2 4 scalene
+"scalene" 2 5 4 scalene
+"isosceles" 1 1 2 Error
+"isosceles" 1 2 1 Error
+"isosceles" 2 1 1 Error
+"isosceles" 2 2 4 Error
+"isosceles" 2 2 5 Error
+"isosceles" 2 4 2 Error
+"isosceles" 2 5 2 Error
+"isosceles" 4 2 2 Error
+"isosceles" 5 2 2 Error
+"scalene" 2 3 5 Error
+"scalene" 2 3 4 scalene
+"scalene" 2 3 6 Error
+"scalene" 2 5 3 Error
+"scalene" 2 4 3 scalene
+"scalene" 2 6 3 Error
+"scalene" 5 2 3 Error
+"scalene" 4 2 3 scalene
+"scalene" 6 2 3 Error
+"Boundary checking" Int.MAX Int.MAX Int.MAX equilateral
+"Boundary checking" Int.MAX 1 Int.MAX       isosceles
+"Boundary checking" 1 Int.MAX Int.MAX       isosceles
+"Boundary checking" Int.MAX Int.MAX 1       isosceles
+"Boundary checking" Int.MAX 1 1  Error
+"Boundary checking" 1 Int.MAX 1  Error
+"Boundary checking" 1 1 Int.MAX  Error
